@@ -1,2 +1,5 @@
 # Sports Analytics Projects
-Ideas:
+Author:
+Christopher Boukalis
+
+W.I.P
