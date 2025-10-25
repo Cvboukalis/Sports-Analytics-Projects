@@ -1,5 +1,5 @@
 # Sports Analytics Projects
 Author:
-Christopher Boukalis
+Christopher Boukalis, BS in Finance @ UIUC
 
-W.I.P
+(WIP)
